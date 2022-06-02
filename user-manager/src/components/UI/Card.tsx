@@ -3,7 +3,7 @@ import classes from "./Card.module.css"
 
 interface CardProps {
     children: React.ReactNode;
-    className: String;
+    className?: String;
  }
 
 export default function Card({children, className}: CardProps ){
