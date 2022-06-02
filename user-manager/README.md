@@ -2,8 +2,8 @@
 
 ### Installation
 
-To install locally download the files and run `npm install`
-And to run a local server run `npm run dev`
+To install locally download the files and run `npm install` <br>
+And to run a local server run `npm run dev` <br>
 
 ![Step 1](https://raw.githubusercontent.com/msyavuz/react-complete-guide-projects/master/user-manager/User%20Manager%20-%20Step%201.jpeg "Step 1")
 
